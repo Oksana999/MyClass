@@ -1,0 +1,75 @@
+Upload a file to the GitHub
+
+1. Create Repository on GitHub
+
+in command line :
+$ git version
+$ pwd
+$ mkdir projects/
+$ cd projects/
+$ pwd
+$ git clone https://github.com/....git
+$ ls
+$ cd dithub-demo
+$ ls
+$ git status
+$ echo “Test Git” >> start.txt
+$ ls
+$ cat start.txt
+$ git status
+$ git add start.txt
+$ git status
+$ git commit -m “Adding start text file”
+$ git push origin master
+
+
+2. $ pwd
+$ cd projects/
+$ pwd 
+$ git init fresh-project
+$ ls
+$ cd fresh-project
+$ ls -al
+$ cd ..
+$ pwd
+$ git status
+$ mate hipster.txt
+$ git status
+$ git add hipster.txt
+$ git status
+$ git commit -m “…..”
+$ git push origin master
+$ pwd
+$ ls
+$ rm -rf fresh-project/
+$ ls
+
+
+
+3. $ pwd
+$ cd projects/
+$ unzip ~/Downloads/initializr-verekia-4.0.zip
+$ ls
+$ mv initializr project
+$ ls
+$ cd project
+$ pwd
+$ ls
+$ git init
+$ ls
+$ git status
+$ git add .
+$ git status
+$ git commit -m “….”
+$ git status
+$ ls -al
+$ rm -rf .git
+$ ls
+$ cd ..
+$ pwd
+$ ls
+$ rm -rf project
+
+
+
+
